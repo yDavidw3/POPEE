@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login</title>
-    <link rel="stylesheet" href="css/login.css">
+    <title>Cadastre-se</title>
+    <link rel="stylesheet" href="css/cadastro.css">
 </head>
 <body>
     <div class="container">
@@ -12,22 +12,40 @@
         <div class="left-side">
             <div class="image-container">
                 <!--se eu achar a imagem eu boto aq-->
-                <img src="images/arte.png" alt="Login Image" class="login-image">
+                <img src="images/arte.png" alt="Sing-in Image" class="singin-image">
             </div>
         </div>
 
         <!-- formulario-->
         <div class="right-side">
-            <div class="login-box">
-                <h1>Bem vindo de volta!</h1>
-                <p class="subtitle">Não tem uma conta? <a href="cadastro.html">Registre-se</a></p>
+            <div class="singin-box">
+                <h1>Crie uma conta</h1>
+                <p class="subtitle">Já tem uma conta? <a href="login.html">Conecte-se</a></p>
 
                 <form>
+                    <div class="form-group flex">
+                        <input 
+                            type="text" 
+                            id="nome" 
+                            placeholder="Nome"
+                            required
+                        >
+
+                    <div class="sobremaior">
+                        <input 
+                            type="text" 
+                            id="sobrenome" 
+                            placeholder="Sobrenome"
+                            required
+                        >
+                    </div>
+                    </div>
+
                     <div class="form-group">
                         <input 
                             type="email" 
                             id="email" 
-                            placeholder="E-mail"
+                            placeholder="Email"
                             required
                         >
                     </div>
@@ -36,32 +54,26 @@
                         <input 
                             type="password" 
                             id="senha" 
-                            placeholder="Senha"
+                            placeholder="Senha forte"
                             required
                         >
                     </div>
 
-                    <div class="esqueceu-flex">
                     <div class="terms">
                         <input type="checkbox" id="terms" required>
                             <label for="terms">
-                                Mantenha-me conectado
+                                Concordo com os <a href="#">Termos e Condições</a>
                             </label>
                     </div>
-                    
-                    <div>
-                        <a href="#" class="forgot-password">Esqueceu sua senha?</a>
-                    </div>
-                </div>
 
-                    <button type="submit" class="btn-login">Entrar</button>
+                    <button type="submit" class="btn-singin">Criar conta</button>
                 </form>
 
                 <div class="divider">
-                    <span>OU CONECTE-SE COM</span>
+                    <span>OU REGISTRE-SE COM</span>
                 </div>
 
-                <div class="social-login">
+                <div class="social-singin">
                     <div class="social-flex">
                     <button type="button" class="btn-social btn-google">
                         <svg width="18" height="18" viewBox="0 0 18 18">
