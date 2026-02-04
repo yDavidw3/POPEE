@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="css/login.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Lado esquerdo com imagem -->
+        <div class="left-side">
+            <div class="image-container">
+                <!-- Adicione sua imagem aqui - apenas troque o src -->
+                <img src="sua-imagem.jpg" alt="Login Image" class="login-image">
+            </div>
+        </div>
+
+        <!-- Lado direito com formulário -->
+        <div class="right-side">
+            <div class="login-box">
+                <h1>Faça login na sua conta</h1>
+                <p class="subtitle">Insira seus dados abaixo para acessar sua conta.</p>
+
+                <form>
+                    <div class="form-group">
+                        <label for="email">E-mail</label>
+                        <input 
+                            type="email" 
+                            id="email" 
+                            placeholder="Digite seu e-mail"
+                            required
+                        >
+                    </div>
+
+                    <div class="form-group">
+                        <label for="senha">Senha</label>
+                        <input 
+                            type="password" 
+                            id="senha" 
+                            placeholder="Digite sua senha"
+                            required
+                        >
+                    </div>
+                    
+                    <a href="#" class="forgot-password">Esqueceu sua senha?</a>
+
+                    <button type="submit" class="btn-login">Entrar</button>
+                </form>
+
+                <div class="divider">
+                    <span>ou</span>
+                </div>
+
+                <div class="social-login">
+                    <button type="button" class="btn-social btn-google">
+                        <svg width="18" height="18" viewBox="0 0 18 18">
+                            <path fill="#4285F4" d="M17.64 9.2c0-.637-.057-1.251-.164-1.84H9v3.481h4.844c-.209 1.125-.843 2.078-1.796 2.717v2.258h2.908c1.702-1.567 2.684-3.874 2.684-6.615z"/>
+                            <path fill="#34A853" d="M9 18c2.43 0 4.467-.806 5.956-2.18l-2.908-2.259c-.806.54-1.837.86-3.048.86-2.344 0-4.328-1.584-5.036-3.711H.957v2.332C2.438 15.983 5.482 18 9 18z"/>
+                            <path fill="#FBBC05" d="M3.964 10.71c-.18-.54-.282-1.117-.282-1.71s.102-1.17.282-1.71V4.958H.957C.347 6.173 0 7.548 0 9s.348 2.827.957 4.042l3.007-2.332z"/>
+                            <path fill="#EA4335" d="M9 3.58c1.321 0 2.508.454 3.44 1.345l2.582-2.58C13.463.891 11.426 0 9 0 5.482 0 2.438 2.017.957 4.958L3.964 7.29C4.672 5.163 6.656 3.58 9 3.58z"/>
+                        </svg>
+                        Continuar com Google
+                    </button>
+
+                    <button type="button" class="btn-social btn-apple">
+                        <svg width="18" height="18" viewBox="0 0 18 18" fill="currentColor">
+                            <path d="M14.94 13.52c-.36.77-.54 1.12-1.01 1.8-.66.96-1.59 2.15-2.74 2.16-1.02.01-1.29-.66-2.68-.65-1.39.01-1.69.66-2.71.65-1.15-.01-2.01-1.08-2.67-2.04-1.85-2.68-2.05-5.83-.9-7.5.81-1.18 2.09-1.87 3.29-1.87 1.22 0 1.99.67 3 .67.98 0 1.58-.67 2.99-.67 1.07 0 2.2.58 3.01 1.59-2.64 1.45-2.21 5.23.42 6.86zm-3.91-12.49c.54.66.95 1.58.8 2.52-1.03-.07-2.24-.73-2.94-1.59-.61-.75-1.11-1.86-.92-2.92 1.17.03 2.38.71 3.06 1.99z"/>
+                        </svg>
+                        Continuar com Apple
+                    </button>
+                </div>
+
+                <p class="create-account">
+                    Não tem uma conta? <a href="#">Criar conta</a>
+                </p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

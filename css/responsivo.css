@@ -1,0 +1,2699 @@
+/*Notebooks*/
+@media (min-width: 1280px) and (max-width: 1366px){
+    .interface{
+        width: 990px;
+    }
+
+    .parteapelo{
+        width: auto;
+    }
+
+    .apelo{
+        padding-top: 15px;
+        font-size: 500%;
+    }
+
+    .botaoapelo{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 40px;
+        padding-left: 40px;
+        margin-top: 4%
+    }
+
+    .resumo1{
+        width: auto;
+        margin-left: -5%;
+        padding-top: 5%;
+    }
+
+    .textog, .chegou{
+        font-size: 450%;
+    }
+
+    .resumo{
+        margin-top: 25px;
+        font-size: 110%;
+        width: auto;
+        padding-right: 10%;
+        text-align: justify;
+        
+    }
+
+    .botaomateria{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 40px;
+        padding-left: 40px;
+        justify-content: center;
+    }
+
+    .proposito{
+        width: auto;
+        margin-left: -93%;
+        padding-bottom: 10%;
+    }
+
+    .texto2{
+        font-size: 300%;
+    }
+
+    .somos{
+        margin-top: 20px;
+        width: auto;
+        padding-right: 5%;
+        text-align: justify;
+        font-size: 150%;
+    }
+
+    .botaosaiba{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+
+    .beneficio{
+        width: auto;
+        margin-left: -5%;
+    }
+
+    .porque{
+        width: auto;
+        font-size: 375%;
+        margin-bottom: -1%;
+    }
+
+    .letrafora{
+        width: auto;
+        font-size: 370%;
+    }
+
+    .sobrevideo{
+        width: auto;
+        text-align: justify;
+        padding-right: 140px;
+        margin-top: 20px;
+        font-size: 150%;
+    }
+
+    .botaoaula{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+
+    .partequatro{
+        width: auto;
+        margin-left: -80%
+    }
+
+    .textopersonalizar{
+        width: auto;
+        font-size: 410%;
+        margin-bottom: .5%;
+    }
+
+    .letrafora2{
+        width: auto;
+        font-size: 370%;
+    }
+
+    .personalizarresumo{
+        margin-top: 25px;
+        width: auto;
+        font-size: 150%;
+        padding-right: 250px;
+        text-align: justify;
+    }
+
+    .botaocronograma{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .partecinco{
+        background-color: #fff;
+        padding-top: 15%;
+        height: 750px;
+        width: 1889px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto;
+    }
+
+    .flex{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .cima{
+        width: 300px;
+        height: auto;
+        margin-left: -450px;
+        flex-direction: column;
+    }
+
+    .primeira{
+        width: 500px;
+        padding-right: auto;
+        padding-left: auto;
+        height: 400px;
+        margin-bottom: 1.5%;
+        border-radius: 32px;
+    }
+
+    .segunda{
+        margin-top: 25px;
+        width: 500px;
+        height: 400px;
+        padding-right: auto;
+        padding-left: auto;
+        margin-bottom: 25px;
+    }
+
+    .containerimagem{
+        width: 500px;
+        height: 700px;
+        justify-content: center;
+        margin-left: 250px;
+        border-radius: 32px;
+        padding-bottom: 17.3%;
+    }
+
+    .ultimo{
+        width: auto;
+        height: 350px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: auto;
+    }
+
+    .ultimotextog{
+        font-size: 300%;
+        margin-top: -100px;
+    }
+
+    .botaoultimo{
+        width: auto;
+        margin-top: 25px;
+        width: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    footer{
+        width: auto;
+        padding-bottom: 450px;
+    }
+
+    footer h3{
+        width: auto;
+        font-size: 200%;
+    }
+
+    .footer-container h3{
+        padding-top: 0px;
+        margin-top: 160px;
+    }
+
+    .footer-container{
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: auto;
+    }
+
+    .infooter{
+        flex-direction: row;
+        width: auto;
+        padding-bottom: 300px;
+        margin-left: -5px;
+        padding-right: 0px;
+        padding-left: 0px;
+        height: 300px;
+        padding-top: 0px;
+    }
+
+    .bottom-bar{
+        flex-direction: column;
+    }
+
+    .list{
+        width: auto;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+
+    .list li{
+        width: auto;
+        font-size: 100%;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+    }
+
+    .list a{
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: auto;
+    }
+
+    .social-media{
+        display: flex;
+        width: auto;
+        height: auto;
+        margin-left: 17px;
+        margin-top: 250px;
+    }
+
+    .social-media li{
+        flex-direction: row;
+        text-align: center;
+        padding: 20px;
+        width: 50px;
+        padding-top: 25px;
+        padding-bottom: 25px;
+        padding-left: 15px;
+        padding-right: 15px;
+        border-radius: 90px;
+        margin-right: 20px;
+        cursor: pointer;
+    }
+
+    .social-media i{
+        font-size: 30px;
+    }
+    }
+/*Notebooks*/
+
+/*Breakpoint*/
+@media (min-width: 1025px) and (max-width: 1279px){
+    header{
+        display: none;
+    }
+    
+    /*nav{
+        width: 75%;
+        height: 35px;
+    }
+
+    nav a{
+        margin-top: 2%;
+    }
+
+    .navcomece{
+        margin-left: 580px;
+        margin-top: -200px;
+    }*/
+
+    .parteapelo{
+        width: auto;
+    }
+
+    .apelo{
+        padding-top: 15px;
+        font-size: 500%;
+    }
+
+    .botaoapelo{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+        margin-top: 4%
+    }
+
+    .resumo1{
+        width: auto;
+        margin-left: -5%;
+        padding-top: 5%;
+    }
+
+    .textog, .chegou{
+        font-size: 450%;
+    }
+
+    .resumo{
+        margin-top: 25px;
+        font-size: 150%;
+        width: auto;
+        padding-right: 10%;
+        text-align: justify;
+        padding-right: 40px;
+    }
+
+    .botaomateria{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 15px;
+        padding-left: 15px;
+        justify-content: center;
+    }
+
+    .proposito{
+        width: auto;
+        margin-left: -93%;
+        padding-bottom: 10%;
+    }
+
+    .texto2{
+        font-size: 300%;
+    }
+
+    .somos{
+        margin-top: 20px;
+        width: auto;
+        padding-right: 5%;
+        text-align: justify;
+        font-size: 150%;
+    }
+
+    .botaosaiba{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .beneficio{
+        width: auto;
+        margin-left: -5%;
+    }
+
+    .porque{
+        width: auto;
+        font-size: 300%;
+        margin-bottom: -1%;
+    }
+
+    .letrafora{
+        width: auto;
+        font-size: 300%;
+    }
+
+    .sobrevideo{
+        width: auto;
+        text-align: justify;
+        padding-right: 40px;
+        margin-top: 20px;
+        font-size: 150%;
+    }
+
+    .botaoaula{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .partequatro{
+        width: auto;
+        margin-left: -80%
+    }
+
+    .textopersonalizar{
+        width: auto;
+        font-size: 300%;
+        margin-bottom: .5%;
+    }
+
+    .letrafora2{
+        width: auto;
+        font-size: 300%;
+    }
+
+    .personalizarresumo{
+        margin-top: 25px;
+        width: auto;
+        font-size: 150%;
+        padding-right: 30px;
+        text-align: justify;
+    }
+
+    .botaocronograma{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .partecinco{
+        flex-direction: column;
+        width: auto;
+        height: auto;
+    }
+
+    .flex{
+        flex-direction: column;
+        width: auto;
+        justify-content: center;
+    }
+
+    .cima{
+        width: 300px;
+        height: auto;
+        margin-left: 25px;
+    }
+
+    .primeira{
+        width: 650px;
+        padding-right: auto;
+        padding-left: auto;
+        height: 400px;
+    }
+
+    .segunda{
+        margin-top: 25px;
+        width: 650px;
+        height: 400px;
+        padding-right: auto;
+        padding-left: auto;
+        margin-bottom: 25px;
+    }
+
+    .containerimagem{
+        flex-direction: column;
+        width: 700px;
+        justify-content: center;
+        height: 500px;
+        margin-left: 2px;
+    }
+
+    .ultimo{
+        width: auto;
+        height: 350px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: auto;
+    }
+
+    .ultimotextog{
+        font-size: 300%;
+        margin-top: -50px;
+    }
+
+    .botaoultimo{
+        width: auto;
+        margin-top: 25px;
+        width: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    footer{
+        width: auto;
+        display: block;
+        padding-bottom: 450px;
+    }
+
+    footer h3{
+        width: auto;
+        font-size: 200%;
+    }
+
+    .footer-container{
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: auto;
+    }
+
+    .infooter{
+        flex-direction: column;
+        width: auto;
+        padding-bottom: 500px;
+        margin-left: -5px;
+        padding-right: 0px;
+        padding-left: 0px;
+        height: 450px;
+    }
+
+    .bottom-bar{
+        flex-direction: column;
+    }
+
+    .list{
+        width: auto;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+
+    .list li{
+        width: auto;
+        font-size: 100%;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+    }
+
+    .list a{
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: auto;
+    }
+
+    .social-media{
+        display: flex;
+        width: auto;
+        height: auto;
+        margin-left: 17px;
+        margin-top: 45px;
+    }
+
+    .social-media li{
+        flex-direction: row;
+        text-align: center;
+        padding: 20px;
+        width: 50px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border-radius: 90px;
+        margin-right: 20px;
+        cursor: pointer;
+    }
+
+    .social-media i{
+        font-size: 20px;
+    }
+    }
+/*Breakpoint*/
+
+/*tablets*/
+@media (min-width: 811px) and (max-width: 1024px){
+    header{
+        display: none;
+    }
+    
+    /*nav{
+        width: 75%;
+        height: 35px;
+    }
+
+    nav a{
+        margin-top: 2%;
+    }
+
+    .navcomece{
+        margin-left: 580px;
+        margin-top: -200px;
+    }*/
+
+    .parteapelo{
+        width: auto;
+    }
+
+    .apelo{
+        padding-top: 15px;
+        font-size: 500%;
+    }
+
+    .botaoapelo{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+        margin-top: 4%
+    }
+
+    .resumo1{
+        width: auto;
+        margin-left: -5%;
+        padding-top: 5%;
+    }
+
+    .textog, .chegou{
+        font-size: 450%;
+    }
+
+    .resumo{
+        margin-top: 25px;
+        font-size: 150%;
+        width: auto;
+        padding-right: 10%;
+        text-align: justify;
+        padding-right: 40px;
+    }
+
+    .botaomateria{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 15px;
+        padding-left: 15px;
+        justify-content: center;
+    }
+
+    .proposito{
+        width: auto;
+        margin-left: -93%;
+        padding-bottom: 10%;
+    }
+
+    .texto2{
+        font-size: 300%;
+    }
+
+    .somos{
+        margin-top: 20px;
+        width: auto;
+        padding-right: 5%;
+        text-align: justify;
+        font-size: 150%;
+    }
+
+    .botaosaiba{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .beneficio{
+        width: auto;
+        margin-left: -5%;
+    }
+
+    .porque{
+        width: auto;
+        font-size: 300%;
+        margin-bottom: -1%;
+    }
+
+    .letrafora{
+        width: auto;
+        font-size: 300%;
+    }
+
+    .sobrevideo{
+        width: auto;
+        text-align: justify;
+        padding-right: 40px;
+        margin-top: 20px;
+        font-size: 150%;
+    }
+
+    .botaoaula{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .partequatro{
+        width: auto;
+        margin-left: -80%
+    }
+
+    .textopersonalizar{
+        width: auto;
+        font-size: 300%;
+        margin-bottom: .5%;
+    }
+
+    .letrafora2{
+        width: auto;
+        font-size: 300%;
+    }
+
+    .personalizarresumo{
+        margin-top: 25px;
+        width: auto;
+        font-size: 150%;
+        padding-right: 30px;
+        text-align: justify;
+    }
+
+    .botaocronograma{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .partecinco{
+        flex-direction: column;
+        width: auto;
+        height: auto;
+    }
+
+    .flex{
+        flex-direction: column;
+        width: auto;
+        justify-content: center;
+    }
+
+    .cima{
+        width: 300px;
+        height: auto;
+        margin-left: 25px;
+    }
+
+    .primeira{
+        width: 650px;
+        padding-right: auto;
+        padding-left: auto;
+        height: 400px;
+    }
+
+    .segunda{
+        margin-top: 25px;
+        width: 650px;
+        height: 400px;
+        padding-right: auto;
+        padding-left: auto;
+        margin-bottom: 25px;
+    }
+
+    .containerimagem{
+        flex-direction: column;
+        width: 700px;
+        justify-content: center;
+        height: 500px;
+        margin-left: 2px;
+    }
+
+    .ultimo{
+        width: auto;
+        height: 350px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: auto;
+    }
+
+    .ultimotextog{
+        font-size: 300%;
+        margin-top: -50px;
+    }
+
+    .botaoultimo{
+        width: auto;
+        margin-top: 25px;
+        width: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    footer{
+        width: auto;
+        display: block;
+        padding-bottom: 450px;
+    }
+
+    footer h3{
+        width: auto;
+        font-size: 200%;
+    }
+
+    .footer-container{
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: auto;
+    }
+
+    .infooter{
+        flex-direction: column;
+        width: auto;
+        padding-bottom: 500px;
+        margin-left: -5px;
+        padding-right: 0px;
+        padding-left: 0px;
+        height: 450px;
+    }
+
+    .bottom-bar{
+        flex-direction: column;
+    }
+
+    .list{
+        width: auto;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+
+    .list li{
+        width: auto;
+        font-size: 100%;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+    }
+
+    .list a{
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: auto;
+    }
+
+    .social-media{
+        display: flex;
+        width: auto;
+        height: auto;
+        margin-left: 17px;
+        margin-top: 45px;
+    }
+
+    .social-media li{
+        flex-direction: row;
+        text-align: center;
+        padding: 20px;
+        width: 50px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border-radius: 90px;
+        margin-right: 20px;
+        cursor: pointer;
+    }
+
+    .social-media i{
+        font-size: 20px;
+    }
+    }
+/*tablets*/
+
+/*tablets velhos*/
+@media (min-width: 768px) and (max-width: 810px){
+    header{
+        display: none;
+    }
+
+    .parteapelo{
+        width: auto;
+    }
+
+    .apelo{
+        padding-top: 15px;
+        font-size: 500%;
+    }
+
+    .botaoapelo{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+        margin-top: 4%
+    }
+
+    .resumo1{
+        width: auto;
+        margin-left: -5%;
+        padding-top: 5%;
+    }
+
+    .textog, .chegou{
+        font-size: 450%;
+    }
+
+    .resumo{
+        margin-top: 25px;
+        font-size: 150%;
+        width: auto;
+        padding-right: 10%;
+        text-align: justify;
+        padding-right: 40px;
+    }
+
+    .botaomateria{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 15px;
+        padding-left: 15px;
+        justify-content: center;
+    }
+
+    .proposito{
+        width: auto;
+        margin-left: -93%;
+        padding-bottom: 10%;
+    }
+
+    .texto2{
+        font-size: 300%;
+    }
+
+    .somos{
+        margin-top: 20px;
+        width: auto;
+        padding-right: 5%;
+        text-align: justify;
+        font-size: 150%;
+    }
+
+    .botaosaiba{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .beneficio{
+        width: auto;
+        margin-left: -5%;
+    }
+
+    .porque{
+        width: auto;
+        font-size: 300%;
+        margin-bottom: -1%;
+    }
+
+    .letrafora{
+        width: auto;
+        font-size: 300%;
+    }
+
+    .sobrevideo{
+        width: auto;
+        text-align: justify;
+        padding-right: 40px;
+        margin-top: 20px;
+        font-size: 150%;
+    }
+
+    .botaoaula{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .partequatro{
+        width: auto;
+        margin-left: -80%
+    }
+
+    .textopersonalizar{
+        width: auto;
+        font-size: 300%;
+        margin-bottom: .5%;
+    }
+
+    .letrafora2{
+        width: auto;
+        font-size: 300%;
+    }
+
+    .personalizarresumo{
+        margin-top: 25px;
+        width: auto;
+        font-size: 150%;
+        padding-right: 30px;
+        text-align: justify;
+    }
+
+    .botaocronograma{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .partecinco{
+        flex-direction: column;
+        width: auto;
+        height: auto;
+    }
+
+    .flex{
+        flex-direction: column;
+        width: auto;
+        justify-content: center;
+    }
+
+    .cima{
+        width: 300px;
+        height: auto;
+        margin-left: 25px;
+    }
+
+    .primeira{
+        width: 650px;
+        padding-right: auto;
+        padding-left: auto;
+        height: 400px;
+    }
+
+    .segunda{
+        margin-top: 25px;
+        width: 650px;
+        height: 400px;
+        padding-right: auto;
+        padding-left: auto;
+        margin-bottom: 25px;
+    }
+
+    .containerimagem{
+        flex-direction: column;
+        width: 700px;
+        justify-content: center;
+        height: 500px;
+        margin-left: 2px;
+    }
+
+    .ultimo{
+        width: auto;
+        height: 350px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: auto;
+    }
+
+    .ultimotextog{
+        font-size: 300%;
+        margin-top: -50px;
+    }
+
+    .botaoultimo{
+        width: auto;
+        margin-top: 25px;
+        width: auto;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    footer{
+        width: auto;
+        display: block;
+        padding-bottom: 450px;
+    }
+
+    footer h3{
+        width: auto;
+        font-size: 200%;
+    }
+
+    .footer-container{
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: auto;
+    }
+
+    .infooter{
+        flex-direction: column;
+        width: auto;
+        padding-bottom: 500px;
+        margin-left: -5px;
+        padding-right: 0px;
+        padding-left: 0px;
+        height: 450px;
+    }
+
+    .bottom-bar{
+        flex-direction: column;
+    }
+
+    .list{
+        width: auto;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+
+    .list li{
+        width: auto;
+        font-size: 100%;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+    }
+
+    .list a{
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: auto;
+    }
+
+    .social-media{
+        display: flex;
+        width: auto;
+        height: auto;
+        margin-left: 17px;
+        margin-top: 45px;
+    }
+
+    .social-media li{
+        flex-direction: row;
+        text-align: center;
+        padding: 20px;
+        width: 50px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border-radius: 90px;
+        margin-right: 20px;
+        cursor: pointer;
+    }
+
+    .social-media i{
+        font-size: 20px;
+    }
+    }
+/*tablets velhos*/
+
+/*quase tablets*/
+@media (min-width: 481px) and (max-width: 767px){
+    header{
+        display: none;
+    }
+
+    .parteapelo{
+        width: auto;
+    }
+
+    .apelo{
+        padding-top: 15px;
+        font-size: 400%;
+    }
+
+    .botaoapelo{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+        margin-top: 4%
+    }
+
+    .resumo1{
+        width: auto;
+        margin-left: -5%;
+        padding-top: 5%;
+    }
+
+    .textog, .chegou{
+        font-size: 240%;
+    }
+
+    .resumo{
+        margin-top: 25px;
+        width: auto;
+        padding-right: 10%;
+        text-align: justify;
+        padding-right: 40px;
+    }
+
+    .botaomateria{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+        justify-content: center;
+    }
+
+    .proposito{
+        width: auto;
+        margin-left: -93%;
+        padding-bottom: 10%;
+    }
+
+    .texto2{
+        font-size: 220%;
+    }
+
+    .somos{
+        margin-top: 20px;
+        width: auto;
+        padding-right: 5%;
+        text-align: justify;
+    }
+
+    .botaosaiba{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .beneficio{
+        width: auto;
+        margin-left: -5%;
+    }
+
+    .porque{
+        width: auto;
+        font-size: 200%;
+        margin-bottom: -1%;
+    }
+
+    .letrafora{
+        width: auto;
+        font-size: 220%;
+    }
+
+    .sobrevideo{
+        width: auto;
+        text-align: justify;
+        padding-right: 40px;
+        margin-top: 20px;
+    }
+
+    .botaoaula{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .partequatro{
+        width: auto;
+        margin-left: -80%
+    }
+
+    .textopersonalizar{
+        width: auto;
+        font-size: 210%;
+        margin-bottom: .5%;
+    }
+
+    .letrafora2{
+        width: auto;
+        font-size: 220%;
+    }
+
+    .personalizarresumo{
+        margin-top: 25px;
+        width: auto;
+        padding-right: 30px;
+        text-align: justify;
+    }
+
+    .botaocronograma{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .partecinco{
+        flex-direction: column;
+        width: auto;
+        height: auto;
+    }
+
+    .flex{
+        flex-direction: column;
+        width: auto;
+        justify-content: center;
+    }
+
+    .cima{
+        width: 300px;
+        height: auto;
+        margin-left: 25px;
+    }
+
+    .primeira{
+        width: 500px;
+        padding-right: auto;
+        padding-left: auto;
+        height: 250px;
+    }
+
+    .segunda{
+        margin-top: 25px;
+        width: 500px;
+        height: 250px;
+        padding-right: auto;
+        padding-left: auto;
+        margin-bottom: 25px;
+    }
+
+    .containerimagem{
+        flex-direction: column;
+        width: 550px;
+        justify-content: center;
+        height: 350px;
+        margin-left: 2px;
+    }
+
+    .ultimo{
+        width: auto;
+        height: 250px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: auto;
+    }
+
+    .ultimotextog{
+        font-size: 190%;
+        margin-top: -50px;
+    }
+
+    .botaoultimo{
+        width: auto;
+        margin-top: 25px;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    footer{
+        width: auto;
+        display: block;
+        padding-bottom: 450px;
+    }
+
+    footer h3{
+        width: auto;
+        font-size: 200%;
+    }
+
+    .footer-container{
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: auto;
+    }
+
+    .infooter{
+        flex-direction: column;
+        width: auto;
+        padding-bottom: 500px;
+        margin-left: -5px;
+        padding-right: 0px;
+        padding-left: 0px;
+        height: 400px;
+    }
+
+    .bottom-bar{
+        flex-direction: column;
+    }
+
+    .list{
+        width: auto;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+
+    .list li{
+        width: auto;
+        font-size: 100%;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+    }
+
+    .list a{
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: auto;
+    }
+
+    .social-media{
+        display: flex;
+        width: auto;
+        height: auto;
+        margin-left: -5px;
+        margin-top: 40%;
+        margin-top: 50px;
+    }
+
+    .social-media li{
+        flex-direction: row;
+        text-align: center;
+        padding: 20px;
+        width: 50px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border-radius: 90px;
+        margin-right: 20px;
+        cursor: pointer;
+    }
+
+    .social-media i{
+        font-size: 20px;
+    }
+    }
+/*quase tablets*/
+
+/*celulares super novos*/
+@media (min-width: 415px) and (max-width: 480px){
+    header{
+        display: none;
+    }
+
+    .parteapelo{
+        width: auto;
+    }
+
+    .apelo{
+        font-size: 425%;
+    }
+
+    .botaoapelo{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+        margin-top: 4%
+    }
+
+    .resumo1{
+        width: auto;
+        margin-left: -5%;
+        padding-top: 5%;
+    }
+
+    .textog, .chegou{
+        font-size: 260%;
+    }
+
+    .resumo{
+        margin-top: 25px;
+        width: auto;
+        padding-right: 10%;
+        text-align: justify;
+        padding-right: 30px;
+    }
+
+    .botaomateria{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+        justify-content: center;
+    }
+
+    .proposito{
+        width: auto;
+        margin-left: -93%;
+        padding-bottom: 10%;
+    }
+
+    .texto2{
+        font-size: 220%;
+    }
+
+    .somos{
+        margin-top: 20px;
+        width: auto;
+        padding-right: 5%;
+        text-align: justify;
+    }
+
+    .botaosaiba{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .beneficio{
+        width: auto;
+        margin-left: -5%;
+    }
+
+    .porque{
+        width: auto;
+        font-size: 210%;
+        margin-bottom: -1%;
+    }
+
+    .letrafora{
+        width: auto;
+        font-size: 220%;
+    }
+
+    .sobrevideo{
+        width: auto;
+        text-align: justify;
+        padding-right: 40px;
+        margin-top: 20px;
+    }
+
+    .botaoaula{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .partequatro{
+        width: auto;
+        margin-left: -80%
+    }
+
+    .textopersonalizar{
+        width: auto;
+        font-size: 225%;
+        margin-bottom: .5%;
+    }
+
+    .letrafora2{
+        width: auto;
+        font-size: 230%;
+    }
+
+    .personalizarresumo{
+        margin-top: 25px;
+        width: auto;
+        padding-right: 30px;
+        text-align: justify;
+    }
+
+    .botaocronograma{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .partecinco{
+        flex-direction: column;
+        width: auto;
+        height: auto;
+    }
+
+    .flex{
+        flex-direction: column;
+        width: auto;
+        justify-content: center;
+    }
+
+    .cima{
+        width: 300px;
+        height: auto;
+    }
+
+    .primeira{
+        width: 350px;
+        padding-right: auto;
+        padding-left: auto;
+        height: 250px;
+    }
+
+    .segunda{
+        margin-top: 25px;
+        width: 350px;
+        height: 250px;
+        padding-right: auto;
+        padding-left: auto;
+        margin-bottom: 25px;
+    }
+
+    .containerimagem{
+        flex-direction: column;
+        width: 350px;
+        justify-content: center;
+        height: 350px;
+        margin-left: 2px;
+    }
+
+    .ultimo{
+        width: auto;
+        height: 250px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: auto;
+    }
+
+    .ultimotextog{
+        font-size: 200%;
+        margin-top: 2px;
+    }
+
+    .botaoultimo{
+        width: auto;
+        margin-top: 25px;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    footer{
+        width: auto;
+        display: block;
+        padding-bottom: 700px;
+    }
+
+    footer h3{
+        width: auto;
+        font-size: 200%;
+    }
+
+    .footer-container{
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: auto;
+    }
+
+    .infooter{
+        flex-direction: column;
+        width: auto;
+        padding-bottom: 500px;
+        margin-left: -5px;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+    .bottom-bar{
+        flex-direction: column;
+    }
+
+    .list{
+        width: auto;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+
+    .list li{
+        width: auto;
+        font-size: 100%;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+    }
+
+    .list a{
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: auto;
+    }
+
+    .social-media{
+        display: flex;
+        width: auto;
+        height: auto;
+        margin-left: -44px;
+        margin-top: 50px;
+    }
+
+    .social-media li{
+        flex-direction: row;
+        text-align: center;
+        padding: 20px;
+        width: 50px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border-radius: 90px;
+        margin-right: 20px;
+        cursor: pointer;
+    }
+
+    .social-media i{
+        font-size: 20px;
+    }
+    }
+/*celulares super novos*/
+
+
+/*celulares mais novos*/
+@media (min-width: 376px) and (max-width: 414px){
+    header{
+        display: none;
+    }
+
+    .parteapelo{
+        width: auto;
+    }
+
+    .apelo{
+        font-size: 400%;
+    }
+
+    .botaoapelo{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+        margin-top: 4%
+    }
+
+    .resumo1{
+        width: auto;
+        margin-left: -5%;
+        padding-top: 5%;
+    }
+
+    .textog, .chegou{
+        font-size: 240%;
+    }
+
+    .resumo{
+        margin-top: 25px;
+        width: auto;
+        padding-right: 10%;
+        text-align: justify;
+        padding-right: 40px;
+    }
+
+    .botaomateria{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+        justify-content: center;
+    }
+
+    .proposito{
+        width: auto;
+        margin-left: -93%;
+        padding-bottom: 10%;
+    }
+
+    .texto2{
+        font-size: 220%;
+    }
+
+    .somos{
+        margin-top: 20px;
+        width: auto;
+        padding-right: 5%;
+        text-align: justify;
+    }
+
+    .botaosaiba{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .beneficio{
+        width: auto;
+        margin-left: -5%;
+    }
+
+    .porque{
+        width: auto;
+        font-size: 200%;
+        margin-bottom: -1%;
+    }
+
+    .letrafora{
+        width: auto;
+        font-size: 220%;
+    }
+
+    .sobrevideo{
+        width: auto;
+        text-align: justify;
+        padding-right: 40px;
+        margin-top: 20px;
+    }
+
+    .botaoaula{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .partequatro{
+        width: auto;
+        margin-left: -80%
+    }
+
+    .textopersonalizar{
+        width: auto;
+        font-size: 210%;
+        margin-bottom: .5%;
+    }
+
+    .letrafora2{
+        width: auto;
+        font-size: 220%;
+    }
+
+    .personalizarresumo{
+        margin-top: 25px;
+        width: auto;
+        padding-right: 30px;
+        text-align: justify;
+    }
+
+    .botaocronograma{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .partecinco{
+        flex-direction: column;
+        width: auto;
+        height: auto;
+    }
+
+    .flex{
+        flex-direction: column;
+        width: auto;
+        justify-content: center;
+    }
+
+    .cima{
+        width: 300px;
+        height: auto;
+    }
+
+    .primeira{
+        width: 350px;
+        padding-right: auto;
+        padding-left: auto;
+        height: 250px;
+    }
+
+    .segunda{
+        margin-top: 25px;
+        width: 350px;
+        height: 250px;
+        padding-right: auto;
+        padding-left: auto;
+        margin-bottom: 25px;
+    }
+
+    .containerimagem{
+        flex-direction: column;
+        width: 350px;
+        justify-content: center;
+        height: 350px;
+        margin-left: 2px;
+    }
+
+    .ultimo{
+        width: auto;
+        height: 250px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: auto;
+    }
+
+    .ultimotextog{
+        font-size: 190%;
+        margin-top: 5px;
+    }
+
+    .botaoultimo{
+        width: auto;
+        margin-top: 25px;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    footer{
+        width: auto;
+        display: block;
+        padding-bottom: 700px;
+    }
+
+    footer h3{
+        width: auto;
+        font-size: 200%;
+    }
+
+    .footer-container{
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: auto;
+    }
+
+    .infooter{
+        flex-direction: column;
+        width: auto;
+        padding-bottom: 500px;
+        margin-left: -5px;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+    .bottom-bar{
+        flex-direction: column;
+    }
+
+    .list{
+        width: auto;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+
+    .list li{
+        width: auto;
+        font-size: 100%;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+    }
+
+    .list a{
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: auto;
+    }
+
+    .social-media{
+        display: flex;
+        width: auto;
+        height: auto;
+        margin-left: -44px;
+        margin-top: 50px;
+    }
+
+    .social-media li{
+        flex-direction: row;
+        text-align: center;
+        padding: 20px;
+        width: 50px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border-radius: 90px;
+        margin-right: 20px;
+        cursor: pointer;
+    }
+
+    .social-media i{
+        font-size: 20px;
+    }
+    }
+/*celulares mais novos*/
+
+
+/*celulares novos*/
+@media (min-width: 321px) and (max-width: 375px){
+    header{
+        display: none;
+    }
+
+    .parteapelo{
+        width: auto;
+    }
+
+    .apelo{
+        font-size: 350%;
+    }
+
+    .botaoapelo{
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+        margin-top: 4%
+    }
+
+    .resumo1{
+        width: auto;
+        margin-left: -5%;
+        padding-top: 5%;
+    }
+
+    .textog, .chegou{
+        font-size: 220%;
+    }
+
+    .resumo{
+        margin-top: 25px;
+        width: auto;
+        padding-right: 10%;
+    }
+
+    .botaomateria{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+        justify-content: center;
+    }
+
+    .proposito{
+        width: auto;
+        margin-left: -93%;
+        padding-bottom: 10%;
+    }
+
+    .texto2{
+        font-size: 220%;
+    }
+
+    .somos{
+        margin-top: 25px;
+        width: auto;
+        padding-right: 5%;
+        text-align: justify;
+    }
+
+    .botaosaiba{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .beneficio{
+        width: auto;
+        margin-left: -5%;
+    }
+
+    .porque{
+        width: auto;
+        font-size: 210%;
+        margin-bottom: -1%;
+    }
+
+    .letrafora{
+        width: auto;
+        font-size: 220%;
+        margin-top: -50px;
+        margin-left: 89px;
+    }
+
+    .sobrevideo{
+        width: auto;
+        text-align: justify;
+        padding-right: 30px;
+        margin-top: 20px;
+    }
+
+    .botaoaula{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .partequatro{
+        width: auto;
+        margin-left: -80%
+    }
+
+    .textopersonalizar{
+        width: auto;
+        font-size: 190%;
+        margin-bottom: .5%;
+    }
+
+    .letrafora2{
+        width: auto;
+        font-size: 200%;
+    }
+
+    .personalizarresumo{
+        margin-top: 25px;
+        width: auto;
+        padding-right: 30px;
+        text-align: justify;
+    }
+
+    .botaocronograma{
+        margin-top: 25px;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .partecinco{
+        flex-direction: column;
+        width: auto;
+        height: auto;
+    }
+
+    .flex{
+        flex-direction: column;
+        width: auto;
+        justify-content: center;
+        padding: -150px;
+    }
+
+    .cima{
+        width: 300px;
+        height: auto;
+        margin-left: 2px;
+    }
+
+    .primeira{
+        width: auto;
+        padding-right: auto;
+        padding-left: auto;
+        height: 250px;
+    }
+
+    .segunda{
+        margin-top: 25px;
+        width: auto;
+        height: 250px;
+        padding-right: auto;
+        padding-left: auto;
+        margin-bottom: 25px;
+    }
+
+    .containerimagem{
+        flex-direction: column;
+        width: auto;
+        justify-content: center;
+        width: auto;
+        height: 350px;
+        margin-left: 2px;
+    }
+
+    .ultimo{
+        width: auto;
+        height: 300px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: auto;
+    }
+
+    .ultimotextog{
+        font-size: 170%;
+        margin-top: 15px;
+    }
+
+    .botaoultimo{
+        width: auto;
+        margin-top: 25px;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    footer{
+        width: auto;
+        display: block;
+        padding-bottom: 700px;
+    }
+
+    footer h3{
+        width: auto;
+        font-size: 200%;
+    }
+
+    .footer-container{
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: auto;
+    }
+
+    .infooter{
+        flex-direction: column;
+        width: auto;
+        padding-bottom: 500px;
+        margin-left: -5px;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+    .bottom-bar{
+        flex-direction: column;
+    }
+
+    .list{
+        width: auto;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+
+    .list li{
+        width: auto;
+        font-size: 100%;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+    }
+
+    .list a{
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: auto;
+    }
+
+    .social-media{
+        display: flex;
+        width: auto;
+        height: auto;
+        margin-left: -53.5px;
+        margin-top: 50px;
+    }
+
+    .social-media li{
+        flex-direction: row;
+        text-align: center;
+        padding: 20px;
+        width: 50px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border-radius: 90px;
+        margin-right: 20px;
+        cursor: pointer;
+    }
+
+    .social-media i{
+        font-size: 20px;
+    }
+    }
+/*celulares novos*/
+
+/*celulares antigos*/
+@media (max-width: 320px){
+    header{
+        display: none;
+    }
+
+    .parteapelo{
+        width: auto;
+        margin-left: -5%;
+    }
+
+    .apelo{
+        font-size: 350%;
+    }
+
+    .botaoapelo{
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+        margin-top: 4%
+    }
+
+    .resumo1{
+        width: auto;
+        margin-left: -5%;
+        padding-top: 5%;
+    }
+
+    .textog, .chegou{
+        font-size: 250%;
+    }
+
+    .resumo{
+        margin-top: 2%;
+        width: auto;
+        padding-right: 7%;
+    }
+
+    .botaomateria{
+        margin-top: 4%;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+        justify-content: center;
+    }
+
+    .proposito{
+        width: auto;
+        margin-left: -93%;
+        padding-bottom: 10%;
+    }
+
+    .texto2{
+        font-size: 250%;
+    }
+
+    .somos{
+        width: auto;
+        padding-right: 4%;
+        text-align: initial;
+    }
+
+    .botaosaiba{
+        margin-top: 2%;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .beneficio{
+        width: auto;
+        margin-left: -5%;
+    }
+
+    .porque{
+        width: auto;
+        font-size: 250%;
+        margin-bottom: -1%;
+    }
+
+    .letrafora{
+        width: auto;
+        font-size: 250%;
+    }
+
+    .sobrevideo{
+        width: auto;
+        text-align: initial;
+        padding-right: 12px;
+    }
+
+    .botaoaula{
+        margin-top: 3%;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .partequatro{
+        width: auto;
+        margin-left: -80%
+    }
+
+    .textopersonalizar{
+        width: auto;
+        font-size: 250%;
+        margin-bottom: .5%;
+    }
+
+    .letrafora2{
+        width: auto;
+        font-size: 250%;
+    }
+
+    .personalizarresumo{
+        width: auto;
+        padding-right: 1px;
+    }
+
+    .botaocronograma{
+        margin-top: 3%;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .partecinco{
+        flex-direction: column;
+        width: auto;
+        height: auto;
+        margin-top: 2%
+    }
+
+    .flex{
+        flex-direction: column;
+        width: auto;
+        justify-content: center;
+    }
+
+    .cima{
+        width: 300px;
+        height: auto;
+        margin-left: 2px;
+    }
+
+    .primeira{
+        height: 250px;
+        width: auto;
+        padding-right: auto;
+        padding-left: auto;
+    }
+
+    .segunda{
+        height: 250px;
+        width: auto;
+        padding-right: auto;
+        padding-left: auto;
+        margin-bottom: 4%;
+    }
+
+    .containerimagem{
+        height: 350px;
+        flex-direction: column;
+        width: auto;
+        justify-content: center;
+        width: auto;
+        margin-left: 2px;
+    }
+
+    .ultimo{
+        width: auto;
+    }
+
+    .ultimotextog{
+        font-size: 250%;
+    }
+
+    .botaoultimo{
+        width: auto;
+        margin-top: 3%;
+        width: auto;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    footer{
+        width: auto;
+        display: block;
+        padding-bottom: 700px;
+    }
+
+    footer h3{
+        width: auto;
+        font-size: 200%;
+        margin-left: -15px;
+    }
+
+    .footer-container{
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        margin: auto
+    }
+
+    .infooter{
+        flex-direction: column;
+        width: auto;
+        padding-bottom: 500px;
+        margin-left: -5px;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+    .bottom-bar{
+        flex-direction: column;
+    }
+
+    .list{
+        width: auto;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        padding-right: 0px;
+        padding-left: 0px;
+        margin-top: -20px;
+    }
+
+
+    .list li{
+        width: auto;
+        font-size: 100%;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+    }
+
+    .list a{
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: auto;
+    }
+
+    .social-media{
+        display: flex;
+        width: auto;
+        height: auto;
+        margin-left: -60px;
+        margin-top: 100px;
+    }
+
+    .social-media li{
+        flex-direction: row;
+        text-align: center;
+        padding: 20px;
+        width: 50px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border-radius: 90px;
+        margin-right: 20px;
+        cursor: pointer;
+    }
+
+    .social-media i{
+        font-size: 20px;
+    }
+    }
+/*celulares antigos*/
